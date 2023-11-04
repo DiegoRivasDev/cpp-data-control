@@ -13,7 +13,7 @@ Practice program in c++, data processing.
 [Diego Rivas | Software engineer & Developer](http://localhost/ "link title")
 
 
-###Following me on my social networks
+### Following me on my social networks: 
 
 - [Youtube](http://localhost/ "link title")
 - [Linkedin](http://localhost/ "link title")
