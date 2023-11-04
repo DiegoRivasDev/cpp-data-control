@@ -16,5 +16,5 @@
 
 ### Following me on my social networks: 
 
-- [Youtube](http://localhost/ "link title")
+- [Youtube](https://www.youtube.com/channel/UCCa6-Hn7aaMg6Oy1q8r6-Fg)
 - [Linkedin](http://localhost/ "link title")
