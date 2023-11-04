@@ -17,4 +17,4 @@
 ### Following me on my social networks: 
 
 - [Youtube](https://www.youtube.com/channel/UCCa6-Hn7aaMg6Oy1q8r6-Fg)
-- [Linkedin](http://localhost/ "link title")
+- [Linkedin](https://www.linkedin.com/in/diego-rivas-96215129a/)
