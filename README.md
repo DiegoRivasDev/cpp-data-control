@@ -2,7 +2,7 @@
 Practice program in c++, data processing.
 
 
-# video link
+###video link
 
 [Demonstration of the code of this repository](http://localhost/ "link title")
 
@@ -14,5 +14,6 @@ Practice program in c++, data processing.
 
 
 ###Following me on my social networks
+
 - [Youtube](http://localhost/ "link title")
 - [Linkedin](http://localhost/ "link title")
