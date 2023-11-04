@@ -11,7 +11,7 @@
 [![1.png](https://i.postimg.cc/vTtCRnVg/1.png)](https://postimg.cc/GT9XGHzd)
 
 # Take a look at my website
- :earth_americas: [Diego Rivas | Software engineer & Developer](http://localhost/ "link title")
+ :earth_americas: [Diego Rivas | Software engineer & Developer](https://diegorivasdev.github.io)
 
 
 ### Following me on my social networks: 
